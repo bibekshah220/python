@@ -19,7 +19,8 @@ print(c.strip())  # remove perfix and postfix whitespaces
 print(c.replace("h","y"))    #replaces the old char with new char
 
 
-
+print(a.lower())  # convert string into small letters 
+print(a.upper()) # convert the string into capital latters
 
 
 

@@ -18,3 +18,4 @@ print(type(f))
 g= "ABC"
 
 print(type(g))
+
