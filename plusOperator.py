@@ -8,3 +8,5 @@ print("hello" +"XYZ")         #hello XYZ
 print(x=y)                #9 -> Addition
 print(x+z)                 # Error
 
+a = "10"
+print(x+a)
